@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--File for Graph Editor-->
+<doc>
+    <Item Type="65605">
+        <ItemPos x="1412.22" y="887.952" z="200"/>
+        <ItemType type="0"/>
+        <ItemName name="v2"/>
+    </Item>
+    <Item Type="65605">
+        <ItemPos x="1200.24" y="800" z="200"/>
+        <ItemType type="0"/>
+        <ItemName name="v3"/>
+    </Item>
+    <Item Type="65605">
+        <ItemPos x="988.122" y="887.615" z="200"/>
+        <ItemType type="0"/>
+        <ItemName name="v4"/>
+    </Item>
+    <Item Type="65605">
+        <ItemPos x="900" y="1099.52" z="200"/>
+        <ItemType type="0"/>
+        <ItemName name="v5"/>
+    </Item>
+    <Item Type="65605">
+        <ItemPos x="987.446" y="1311.71" z="200"/>
+        <ItemType type="0"/>
+        <ItemName name="v6"/>
+    </Item>
+    <Item Type="65605">
+        <ItemPos x="1199.28" y="1400" z="200"/>
+        <ItemType type="0"/>
+        <ItemName name="v7"/>
+    </Item>
+    <Item Type="65605">
+        <ItemPos x="1411.54" y="1312.72" z="200"/>
+        <ItemType type="0"/>
+        <ItemName name="v8"/>
+    </Item>
+    <Item Type="65605">
+        <ItemPos x="1500" y="1100.96" z="200"/>
+        <ItemType type="0"/>
+        <ItemName name="v9"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v8" end_name="v9"/>
+        <ItemName name="e49"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v7" end_name="v9"/>
+        <ItemName name="e42"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v7" end_name="v8"/>
+        <ItemName name="e41"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v6" end_name="v9"/>
+        <ItemName name="e35"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v6" end_name="v8"/>
+        <ItemName name="e34"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v6" end_name="v7"/>
+        <ItemName name="e33"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v5" end_name="v9"/>
+        <ItemName name="e28"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v5" end_name="v8"/>
+        <ItemName name="e27"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v5" end_name="v7"/>
+        <ItemName name="e26"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v5" end_name="v6"/>
+        <ItemName name="e25"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v4" end_name="v9"/>
+        <ItemName name="e21"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v4" end_name="v8"/>
+        <ItemName name="e20"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v4" end_name="v7"/>
+        <ItemName name="e19"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v4" end_name="v6"/>
+        <ItemName name="e18"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v4" end_name="v5"/>
+        <ItemName name="e17"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v3" end_name="v9"/>
+        <ItemName name="e14"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v3" end_name="v8"/>
+        <ItemName name="e13"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v3" end_name="v7"/>
+        <ItemName name="e12"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v3" end_name="v6"/>
+        <ItemName name="e11"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v3" end_name="v5"/>
+        <ItemName name="e10"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v3" end_name="v4"/>
+        <ItemName name="e9"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v2" end_name="v9"/>
+        <ItemName name="e7"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v2" end_name="v8"/>
+        <ItemName name="e6"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v2" end_name="v7"/>
+        <ItemName name="e5"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v2" end_name="v6"/>
+        <ItemName name="e4"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v2" end_name="v5"/>
+        <ItemName name="e3"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v2" end_name="v4"/>
+        <ItemName name="e2"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v2" end_name="v3"/>
+        <ItemName name="e1"/>
+    </Item>
+</doc>

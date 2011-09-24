@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--File for Graph Editor-->
+<doc>
+    <Item Type="65605">
+        <ItemPos x="864" y="897" z="200"/>
+        <ItemType type="0"/>
+        <ItemName name="v1"/>
+    </Item>
+    <Item Type="65605">
+        <ItemPos x="1097" y="898" z="200"/>
+        <ItemType type="0"/>
+        <ItemName name="v2"/>
+    </Item>
+    <Item Type="65605">
+        <ItemPos x="1087" y="1051" z="200"/>
+        <ItemType type="0"/>
+        <ItemName name="v3"/>
+    </Item>
+    <Item Type="65605">
+        <ItemPos x="872" y="1061" z="200"/>
+        <ItemType type="0"/>
+        <ItemName name="v4"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v4" end_name="v1"/>
+        <ItemName name="e4"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v3" end_name="v4"/>
+        <ItemName name="e3"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v2" end_name="v3"/>
+        <ItemName name="e2"/>
+    </Item>
+    <Item Type="65540">
+        <ItemPos x="0" y="0" z="-100"/>
+        <ItemType type="1" start_name="v1" end_name="v2"/>
+        <ItemName name="e1"/>
+    </Item>
+</doc>

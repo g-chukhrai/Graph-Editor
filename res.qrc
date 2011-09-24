@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/about.png</file>
+        <file>images/cascade.png</file>
+        <file>images/delete.png</file>
+        <file>images/editor.ico</file>
+        <file>images/editor.png</file>
+        <file>images/exit.png</file>
+        <file>images/fg.png</file>
+        <file>images/jpg.png</file>
+        <file>images/make.png</file>
+        <file>images/new.png</file>
+        <file>images/number.png</file>
+        <file>images/open.png</file>
+        <file>images/preview.png</file>
+        <file>images/print.png</file>
+        <file>images/refresh.png</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/scale.png</file>
+        <file>images/tile.png</file>
+        <file>images/txt.png</file>
+        <file>images/circle.png</file>
+        <file>images/close.png</file>
+        <file>images/list.png</file>
+        <file>images/select.png</file>
+        <file>images/arc.png</file>
+        <file>images/edge.png</file>
+        <file>images/next.png</file>
+        <file>images/previous.png</file>
+        <file>images/vis.png</file>
+        <file>images/start.png</file>
+        <file>images/pause.png</file>
+        <file>images/repeat.png</file>
+    </qresource>
+</RCC>
